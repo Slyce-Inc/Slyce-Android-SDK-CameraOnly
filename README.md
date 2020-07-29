@@ -19,8 +19,7 @@ Paste your SDK credentials into the constants defined in `app/src/main/java/it/s
 ```
 
 You should now be able to run the sample application.  When the app first launches you will be presented with the Slyce Camera UI (which you can customize as needed).  All SDK
-events, most notably when a search has been conducted and results returned, are exposed within `app/src/main/java/it/slyce/slyce_camera_only/custom/CustomUIFragment.java`.  This is
-illustrates how you might add your own aplication behavior to the raw SDK results.
+events, most notably when a search has completed and results have been returned, are exposed within `app/src/main/java/it/slyce/slyce_camera_only/custom/CustomUIFragment.java`.  This implementation demonstrates how you might add your own aplication behavior when dealing with the raw SDK results.
 
 ## Additional Support
 
