@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SlyceSDK Camera Only</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="save">Save</string>
+    <string name="privacy_opt_out_title">Forgetting User…</string>
+    <string name="error_dialog_title">An error has occurred</string>
+</resources>
